@@ -8,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class BodyComponent implements OnInit {
 
   public description: string = "Esta es la descripcion";
-  public price:number = 12.223
+  public price:number = 12.223;
 
   constructor() { }
 
